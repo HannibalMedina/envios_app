@@ -1,0 +1,40 @@
+***************************************************************
+***Anibal Medina Mena***
+
+Aplicacion para asignar envios.
+
+**Ambiente**
+- Versión de flutter: _3.0.5_
+
+***************************************************************
+**INSTRUCCIONES PARA EJECUTAR DESDE CODIGO **
+***************************************************************
+**General**
+- Una vez descargado el código fuente de GIT
+- Ejecutar en terminal a nivel de el proyecto: flutter clean
+- Ejecutar en terminal a nivel de el proyecto: flutter pub get
+**Debug**
+1) Una vez en el codigo ir al archivo main.dart o a la pestaña run and debug de su editor/IDE
+2) Apretar el icono de play 
+**Terminal**
+1) Una vez en el codigo abrir la terminal
+2) Ejecutar el comando flutter run
+
+
+***************************************************************
+**INSTRUCCIONES PARA RELEASE **
+***************************************************************
+
+**General**
+- Una vez descargado el código fuente de GIT
+- Ejecutar en terminal a nivel de el proyecto: flutter clean
+- Ejecutar en terminal a nivel de el proyecto: flutter pub get
+
+**Android**
+1) Ejecutar en terminal a nivel de el proyecto: flutter build apk
+2) El apk se genera en la ruta:
+    _{$PROYECT_DIR}\build\app\outputs\flutter-apk\app-release.apk_
+5) Renombrar el archivo como envios.apk
+
+
+
